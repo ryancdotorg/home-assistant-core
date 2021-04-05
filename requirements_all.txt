@@ -2416,6 +2416,9 @@ python-telegram-bot[socks]==21.5
 # homeassistant.components.vlc
 python-vlc==3.0.18122
 
+# homeassistant.components.rako
+python_rako==0.0.9
+
 # homeassistant.components.egardia
 pythonegardia==1.0.52
 
