@@ -377,6 +377,7 @@ homeassistant.components.radarr.*
 homeassistant.components.radio_browser.*
 homeassistant.components.rainforest_raven.*
 homeassistant.components.rainmachine.*
+homeassistant.components.rako.*
 homeassistant.components.raspberry_pi.*
 homeassistant.components.rdw.*
 homeassistant.components.recollect_waste.*
